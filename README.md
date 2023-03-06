@@ -7,7 +7,6 @@
 
 ***The text must be a maximum of 256 characters long for the algorithm to remain secure.***
 
-## We publish the project as a challenge and welcome feedback on vulnerabilities at:
-## to :
-## u.calice@studenti.poliba.it
+## We publish the project as a challenge and welcome feedback on vulnerabilities at: u.calice@studenti.poliba.it
+
 ***because for this implementation we have not used any known encryption algorithm and there are no mathematical rules to regulate its operation***
