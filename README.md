@@ -12,3 +12,14 @@
 ***because for this implementation we have not used any known encryption algorithm and there are no mathematical rules to regulate its operation***
 
 ![Screenshot](IMG/GITSIMMETRIC.png)
+
+## How to use
+***when we start for the first time the programm we have the follow output:***
+
+[Screenshot](IMG/GITSIMMETRICOUT1.png)
+
+***This step create two files in src/ named: array.json and map.json***
+
+***Now i can crypt and decript the plain text with the json map, as here:***
+
+![Screenshot](IMG/GITSIMMETRICOUT2.png)
