@@ -26,7 +26,7 @@
 
 ![Screenshot](IMG/GITSIMMETRICOUT2.png)
 
-# CHALLENGE
+# Challenge
 
 ***The vector is the ciphertext from which to start hacking this rust program.***
 ***The challenge is to find a practical or theoretical way to define the use of this algorithm as unsafe***
