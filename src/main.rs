@@ -39,13 +39,17 @@ fn main(){
                         cont+=1;
                     }
                 }
-                print!("{cont}");
+                //print!("{cont}");
             }
             println!("Decifrata: {:#?}", derypt_text.trim());
         }
         
     }else{
-        let mut test: Vec<i64> = Vec::new();
+
+        //let mut test: Vec<i64> = Vec::new();
+        //test.push(1);
+        //let data = fs::read_to_string("src/array.json").unwrap();
+        let mut test = Vec::new();
         test.push(1);
         let (map, crypt)  = Crypt::build(&corrispond, generic, test);
         
