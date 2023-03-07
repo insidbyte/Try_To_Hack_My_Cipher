@@ -13,7 +13,7 @@
 
 ![Screenshot](IMG/GITSIMMETRIC.png)
 
-## How to use
+# How to use
 ***When we start the programm for the first time we should change the source code with the correct instruction situated in:***
 ***codice tolto array.txt***
 ***after we can see the follow output:***
@@ -26,3 +26,7 @@
 
 ![Screenshot](IMG/GITSIMMETRICOUT2.png)
 
+# CHALLENGE
+
+***The vector is the ciphertext from which to start hacking this rust program***
+***the challenge is to find a practical or theoretical way to define the use of this algorithm as unsafe***
