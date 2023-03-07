@@ -3,7 +3,7 @@
 ***Tries to break the encryption assuming it doesn't know the given map and vector***
 
 # How does it work
-***this rust program encrypts and decrypts with symmetric encryption using a keymap.***
+***This rust program encrypts and decrypts with symmetric encryption using a keymap.***
 
 ***The text must be a maximum of 256 characters long for the algorithm to remain secure.***
 
