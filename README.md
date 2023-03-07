@@ -14,7 +14,9 @@
 ![Screenshot](IMG/GITSIMMETRIC.png)
 
 ## How to use
-***when we start for the first time the programm we have the follow output:***
+***When we start the programm for the first time we should change the source code with the correct instruction situated in:***
+***codice tolto array.txt***
+***after we can see the follow output:***
 
 ![Screenshot](IMG/GITSIMMETRICOUT1.png)
 
@@ -23,3 +25,4 @@
 ***Now i can crypt and decript the plain text with the json map, as here:***
 
 ![Screenshot](IMG/GITSIMMETRICOUT2.png)
+
