@@ -28,5 +28,8 @@
 
 # CHALLENGE
 
-***The vector is the ciphertext from which to start hacking this rust program***
-***the challenge is to find a practical or theoretical way to define the use of this algorithm as unsafe***
+***The vector is the ciphertext from which to start hacking this rust program.***
+***The challenge is to find a practical or theoretical way to define the use of this algorithm as unsafe***
+***Once the challenge is completed, send the answer to:***
+u.calice@studenti.pliba.it
+***Thanks for your attention, see you soon, Insidbyte***
