@@ -14,8 +14,8 @@
 ![Screenshot](IMG/GITSIMMETRIC.png)
 
 # How to use
-***When we start the programm for the first time we should change the source code with the correct instruction situated in:***
-***codice tolto array.txt***
+***When we start the program for the first time we should change the source code with the correct instruction situated in:***
+***readme.txt***
 ***after we can see the follow output:***
 
 ![Screenshot](IMG/GITSIMMETRICOUT1.png)
