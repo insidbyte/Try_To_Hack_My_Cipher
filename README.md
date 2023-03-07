@@ -16,7 +16,7 @@
 ## How to use
 ***when we start for the first time the programm we have the follow output:***
 
-[Screenshot](IMG/GITSIMMETRICOUT1.png)
+![Screenshot](IMG/GITSIMMETRICOUT1.png)
 
 ***This step create two files in src/ named: array.json and map.json***
 
